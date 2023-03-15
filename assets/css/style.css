@@ -1,4 +1,11 @@
-*
+/* Universal Selector uses '*' */
+/* Targeting the ID = # */
+/* Targeting the class = . */
+
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
 {
     box-sizing: border-box;
     padding: 0;
